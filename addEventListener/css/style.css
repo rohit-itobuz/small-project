@@ -1,0 +1,9 @@
+.color-blue {
+    background-color: rgb(114, 109, 214);
+    width: 30%;
+    border-radius: 5%;
+}
+
+.background {
+    background-image: url(../image/tiger.jpg);
+}
